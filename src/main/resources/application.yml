@@ -1,0 +1,10 @@
+mqtt:
+  username: guest
+  password: guest
+  client-id: mqtt-test
+  default.client.id: gw-mqtt
+  url: tcp://localhost:1883
+  topics:
+    - test
+    - test1
+
