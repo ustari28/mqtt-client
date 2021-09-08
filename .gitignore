@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/simulator-udp-01-sslpociotazure-devicesnet8883/.lck

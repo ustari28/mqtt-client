@@ -14,4 +14,6 @@ public class MqttConfig {
     private String url;
     private String clientId;
     private String[] topics;
+    private String pathCa;
+    private String[] permissions;
 }
