@@ -1,10 +1,15 @@
 mqtt:
   username: guest
   password: guest
-  client-id: mqtt-test
-  default.client.id: gw-mqtt
-  url: tcp://localhost:1883
+  client-id: 123213213213
+  url: ssl://127.0.0.1:8080
   topics:
     - test
     - test1
+  ca: |
 
+  crt: |
+
+  key: |
+
+  keyPassword: guest

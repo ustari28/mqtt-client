@@ -14,4 +14,8 @@ public class MqttConfig {
     private String url;
     private String clientId;
     private String[] topics;
+    private String ca;
+    private String crt;
+    private String key;
+    private String keyPassword;
 }
